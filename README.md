@@ -18,7 +18,7 @@ This is a basic static webpage that showcases a food ordering layout. The page i
 
 ## Live Demo
 
-[View the live site here](https://your-github-username.github.io/your-repo-name)
+[View the live site here](https://ayyappandeveloper.github.io/Simple-Reestar-Webpage/)
 
 ## How to Use
 
