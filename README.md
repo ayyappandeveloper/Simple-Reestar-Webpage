@@ -9,7 +9,7 @@ This is a basic static webpage that showcases a food ordering layout. The page i
 - **Header** – Includes the title  of the site.
 - **Navigation Bar** – Simple navigation menu for user-friendly browsing.
 - **Food Section** – Displays four delicious food images with an "Order Now" button for each.
-- **Footer** – Contains basic contact details or links.
+- **Footer** – Contains basic contact details 
 
 ## Technologies Used
 
@@ -23,7 +23,7 @@ This is a basic static webpage that showcases a food ordering layout. The page i
 ## How to Use
 
 1. Clone the repository:
-2. 2. Open the `index.html` file in your browser.
+2. Open the `index.html` file in your browser.
 
 ## License
 
